@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 1. **Clone or Download the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Hospital-Management-System.git
+   git clone [https://github.com/Leo-exe-24/Hospital-Management-System]
    ```
 
 2. **Move the Project to Server Root**  
